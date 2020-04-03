@@ -28,5 +28,5 @@ For usage: `python acre_driver.py -h`
 
 ### Single site
 
-`python acre_driver.py --plotmode --test-hist-pref=<fullpath> --base-hist-pref=<fullpath> --test-name=<test> --base-name=<text> --eval-id=<id-string>`
+`python acre_driver.py --plotmode --regressmode --test-hist-pref=<fullpath> --base-hist-pref=<fullpath> --test-name=<test> --base-name=<text> --eval-id=<id-string>`
 
